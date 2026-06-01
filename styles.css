@@ -2,50 +2,12 @@
    Float Practice
 ======================================== */
 
-/*
-  We will add float styles here during the exercise.
-
-  Example concepts we will practice:
-  - float: right;
-  - float: left;
-  - width
-  - margin
-  - padding
-  - clear
-*/
-
-/* Students will build this rule during the exercise */
-/*
-.cats {
-  float: right;
-  width: 200px;
-  background-color: gainsboro;
-  padding: 5px;
-  margin-left: 1rem;
-  margin-bottom: 1rem;
-}
-*/
-
-/* Students will use this later to stop content from wrapping around the float */
-/*
-.float-notes {
-  clear: both;
-}
-*/
 
 
-/* ========================================
-   Image Styles
-======================================== */
-/*
-  This is a good general image rule.
-  It helps images shrink to fit inside their containers
-  instead of spilling outside.
-*/
-img {
-  max-width: 100%;
-  height: auto;
-}
+
+
+
+
 
 
 /* ========================================
